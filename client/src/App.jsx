@@ -56,7 +56,7 @@ function App() {
 
     try {
       const response = await fetch(
-        "http://localhost:5001/api/tts",
+       "https://text-to-speech-iaye.onrender.com/api/tts",
         {
           method: "POST",
           headers: {
