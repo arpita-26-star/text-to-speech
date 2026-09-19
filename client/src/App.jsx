@@ -243,6 +243,10 @@ function App() {
                   Gujarati
                 </option>
 
+                <option value="ru-RU">
+                  Russian
+                </option>
+
                 <option value="mr-IN">
                   Marathi
                 </option>
